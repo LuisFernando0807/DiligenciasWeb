@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.imagenLogin {
+  background: url(../assets/img/fondo_pamolsa.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 950px;
+}
+
+.formLogin {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 50px auto auto;
+  padding: 60px 100px;
+}
+
+.logosEmpresas {
+  display: flex;
+  justify-content: center;
+  margin: -0.9em;
+}
+.logoPamolsa {
+  margin-left: 40px;
+}
+.logoDespro {
+  margin-left: 3px;
+}
+.logoMolpack {
+  margin-left: 20px;
+  position: relative;
+  top: 1.5em;
+}
+
+.logoRecicloplas {
+  position: relative;
+  top: -0.2em;
+}
+.noScrollbar {
+  width: 100%;
+  max-height: 100%;
+  overflow-x: hidden;
+}

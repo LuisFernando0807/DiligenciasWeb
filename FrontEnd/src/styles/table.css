@@ -1,0 +1,35 @@
+* {
+  font-family: sans-serif;
+  outline: none;
+  text-decoration: none !important;
+}
+.table th {
+  background-color: #0154a0;
+  color: white;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  line-height: 15px;
+  font-size: 14px;
+  font-weight: 100;
+  border-bottom: 1px solid #003e77;
+  text-align: center;
+}
+
+.table-bordered th {
+  border-left: 1px solid #ffffff;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+}
+table {
+  text-indent: initial;
+  border-spacing: 2px;
+}
+.table-bordered {
+  border-left: 0;
+  border-radius: 7px;
+}

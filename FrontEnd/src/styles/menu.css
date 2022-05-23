@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.tituloMenu {
+  text-align: center;
+  margin: 6em;
+}
+
+.text {
+  margin: auto;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: auto;
+}
+
+.list-container {
+  margin-top: 5px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+}

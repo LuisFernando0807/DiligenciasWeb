@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+  outline: none;
+  text-decoration: none !important;
+  color: #666;
+}
+.fondo {
+  background: #868585;
+}
+
+.form-box {
+  width: 90%;
+  margin: 0 auto;
+}
+.contenedor {
+  min-height: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 5px #b6b6b6;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+div {
+  display: block;
+}
+
+.divFiltros {
+  margin-top: 10px;
+}
+
+.claseBoton1 {
+  width: 170px;
+  height: 61px;
+  overflow: hidden;
+  padding-left: 100px;
+  position: relative;
+  top: 1.8em;
+}
+
+.claseBoton2 {
+  float: right !important;
+}
+
+.claseInternaBoton {
+  border: 0;
+  padding: 10px 50px;
+  background-color: #0154a0;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.tituloFormulario {
+  font-size: 24px;
+  outline: none;
+  text-decoration: none !important;
+  color: #666;
+  font-style: italic;
+}
+
+.posicionTitulo {
+  position: relative;
+  top: 0.4em;
+}
+
+.parametrosForm {
+  display: block;
+}

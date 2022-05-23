@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+  font-size: 12px;
+  outline: none;
+  text-decoration: none !important;
+  color: #666;
+  box-sizing: border-box;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+#footerGlobal {
+  color: white;
+  text-align: center;
+  line-height: 25px;
+}
