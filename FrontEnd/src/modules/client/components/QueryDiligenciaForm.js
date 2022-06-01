@@ -111,13 +111,14 @@ const QueryDiligenciaForm = () => {
               <thead>
                 <tr>
                   <th>Id</th>
-                  <th>Nombre</th>
-                  <th>Precio</th>
-                  <th>Stock</th>
-                  <th>SKU</th>
-                  <th>Categoría</th>
-                  <th>Imagen</th>
-                  <th>Acciones</th>
+                  <th>Fecha Registro</th>
+                  <th>Cliente</th>
+                  <th>Detalle</th>
+                  <th>Fecha Entrega</th>
+                  <th>Distrito</th>
+                  <th>Dirección</th>
+                  <th>Motorizado</th>
+                  <th>Estado</th>
                 </tr>
               </thead>
             </table>

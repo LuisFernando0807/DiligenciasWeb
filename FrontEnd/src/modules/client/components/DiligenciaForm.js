@@ -26,6 +26,15 @@ const DiligenciaForm = () => {
                 className="form-control"
               />
             </div>
+            <div className="form-group">
+              <label htmlFor="empresa_diligencia">Empresa:</label>
+              <input
+                type="text"
+                id="empresa_diligencia"
+                name="empresa_diligencia"
+                className="form-control"
+              />
+            </div>
 
             <div className="form-group">
               <label htmlFor="cliente_diligencia">Cliente:</label>
